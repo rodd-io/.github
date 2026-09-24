@@ -32,8 +32,8 @@ Most enterprise data remains trapped in legacy silos—scanned PDFs, stale wikis
 [Portable Open Markdown & JSON]
        │
        ▼  RODD FORGE
-[Private Local Model] (Air-gapped GGUF / Safetensors)
-
+[Private Local Model] 
+```
 ---
 
 ### Products
