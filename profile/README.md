@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://rodd.io">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../rodd-mark-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="../rodd-mark-light.png">
+    <img alt="Rodd Logo" src="../rodd-mark-dark.png" width="130" height="130">
+  </picture>
+</a>
+
 # rodd
 
 **A Nordic Data Infrastructure Company**
